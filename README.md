@@ -18,7 +18,7 @@ This project focuses on analyzing the unemployment rate, particularly in the aft
 3. Open the Jupyter Notebook or run the Python scripts to analyze the data and generate insights.
 
 ## Dataset
-The dataset used for this analysis consists of [mention the source of the dataset]. It includes [brief description of the dataset contents].
+The dataset used for this analysis consists of Covid-19 datset. 
 
 ## Usage Example
 ```python
